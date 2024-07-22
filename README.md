@@ -21,9 +21,6 @@
 
 ## 📫 How to reach me
 <p>
-  <a href="[https://github.com/luigi-borriello00](https://github.com/massone99)">
-    <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a> 
   <a href="mailto:lorenzomassone@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>  
