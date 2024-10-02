@@ -38,7 +38,7 @@
 <br />
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=massone99&layout=compact&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=massone99&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook,html" />
 </div>
 
 ## 🏆 GitHub Trophies
@@ -50,7 +50,7 @@
   <a href="mailto:lorenzomassone@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/lorenzo-massone-450020241/)" target="_blank">
+  <a href="https://www.linkedin.com/in/lorenzo-massone-450020241/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
