@@ -1,7 +1,7 @@
 ## 👨🏻‍💻 About Me
 
-- 🎓 Graduated in **Computer Science and Engineering @ Università di Bologna**
-- 🔭 Currently pursuing a Master's Degree in **Computer Science and Engineering @ Università di Bologna**
+- 🎓 Bachelor's Degree in Computer Science and Engineering @ Università di Bologna
+- 🔭 Master's Degree in Computer Science and Engineering @ Università di Bologna
 - 🌱 Always learning and exploring new technologies
 - 💡 Passionate about solving complex problems and creating innovative solutions
 
