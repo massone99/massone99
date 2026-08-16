@@ -46,14 +46,23 @@ Interested in designing reliable systems involving:
 
 ---
 
-### Full-Stack E-Commerce Platform
+### 🤖 Telegram Media Automation Bot
 
-MEVN application implementing authentication, role-based access,
-real-time updates and persistent data storage.
+[![Repository](https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/massone99/telegram_bot_media_caption_assigner)
 
-**Stack:** Vue · Node.js · Express · MongoDB · Socket.IO
+Automation tool for organizing large media collections inside **Telegram forum topics**.
 
-[Repository →](https://github.com/massone99/ASW_Ecommerce)
+- Built an asynchronous Telegram bot in Python
+- Automatically routes media to topics based on filename metadata
+- Creates and persists topic mappings using SQLite
+- Uses per-topic async locks to prevent duplicate topic creation during concurrent batches
+- Handles videos, images, audio and documents with normalized captions and filenames
+- Detects stale Telegram thread mappings and automatically recreates/retries them
+- Includes fallback handling for failed uploads and message routing
+
+`Python` `AsyncIO` `Telegram Bot API` `SQLite` `Automation` `Media Processing`
+
+[Repository →](https://github.com/massone99/telegram_bot_media_caption_assigner)
 
 ---
 
